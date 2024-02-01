@@ -10,16 +10,16 @@ Steps to run the project:
 - Step7: Founded the correlation between the columns and dropped columns if necessary.
 - Step8: Next we stored the data into MongoDB using MongoDB compass.
 - Step9: After storing data we made a connection to Pyspark through MongoDB.
-Step10: Installed Pyspark and using Pyspark we did few of the following steps.
-Step11: Created Spark Session.
-Step12: We faced issues with the data types in our data so, we used String Indexer for handling categorical values.
-Step13: After clearing the issues we created pipelines.
-Step14: We split the data into Test data and Train data.
-Step15: Then we applied Machine Learning Algorithms using MLlib on the split data.
-Step16: Using Logistic Regression method and found accuracy for the data.
-Step17: Applying Decision Tree Classifier and showing the accuracy score of the model for the data.
-Step18: Implementing Naive Bayes algorithm and finding accuracy score.
-Step19: Based on the accuracy scores for different models we can decide which is the best model for the chosen dataset.
+- Step10: Installed Pyspark and using Pyspark we did few of the following steps.
+- Step11: Created Spark Session.
+- Step12: We faced issues with the data types in our data so, we used String Indexer for handling categorical values.
+- Step13: After clearing the issues we created pipelines.
+- Step14: We split the data into Test data and Train data.
+- Step15: Then we applied Machine Learning Algorithms using MLlib on the split data.
+- Step16: Using Logistic Regression method and found accuracy for the data.
+- Step17: Applying Decision Tree Classifier and showing the accuracy score of the model for the data.
+- Step18: Implementing Naive Bayes algorithm and finding accuracy score.
+- Step19: Based on the accuracy scores for different models we can decide which is the best model for the chosen dataset.
 
 Insights From the data:
 We have noted some observations while preforming exploratory data analysis on the dataset. We have visualized the data using ‘matplotlib’ and drawn some insights. They are:
