@@ -1,15 +1,15 @@
 Final Project report – Credit card fraud transaction prediction
 
 Steps to run the project:
-Step1: The first step was to import the required libraries.
-Step2: Then we load the data from the source into data frames. Our data set has train data and test data separately, so we have read both the datasets into two different data frames.
-Step3: After reading the two separated datasets we merged the datasets.
-Step4: We wanted to get to know the size of the dataset and their datatypes.
-Step5: Later we checked for null values in the data frame.
-Step6: We found few duplicate entries in our data and dropped them which were not useful.
-Step7: Founded the correlation between the columns and dropped columns if necessary.
-Step8: Next we stored the data into MongoDB using MongoDB compass.
-Step9: After storing data we made a connection to Pyspark through MongoDB.
+- Step1: The first step was to import the required libraries.
+- Step2: Then we load the data from the source into data frames. Our data set has train data and test data separately, so we have read both the datasets into two different data frames.
+- Step3: After reading the two separated datasets we merged the datasets.
+- Step4: We wanted to get to know the size of the dataset and their datatypes.
+- Step5: Later we checked for null values in the data frame.
+- Step6: We found few duplicate entries in our data and dropped them which were not useful.
+- Step7: Founded the correlation between the columns and dropped columns if necessary.
+- Step8: Next we stored the data into MongoDB using MongoDB compass.
+- Step9: After storing data we made a connection to Pyspark through MongoDB.
 Step10: Installed Pyspark and using Pyspark we did few of the following steps.
 Step11: Created Spark Session.
 Step12: We faced issues with the data types in our data so, we used String Indexer for handling categorical values.
