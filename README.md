@@ -1,10 +1,10 @@
 # Project
 ### Fraud Prediction – Credit Card Transactions
-• The theft in which someone else uses your credit card to make an unauthorized purchase is credit card fraud.
-• There is a rapid increase in credit card frauds with the increase in E-payment systems.
-• Out of 22 percent of total card volume in the United States, 36 percent was accounted as card fraud in 2021.
-• credit card fraud increased by 44.6% from 271,927 in 2019 to 393,207 in 2020.
-• According to Nilson’s research’s annual report, Global Card frauds might cost approximately $408.50 billion over the next decade.
+- The theft in which someone else uses your credit card to make an unauthorized purchase is credit card fraud.
+- There is a rapid increase in credit card frauds with the increase in E-payment systems.
+- Out of 22 percent of total card volume in the United States, 36 percent was accounted as card fraud in 2021.
+- Credit card fraud increased by 44.6% from 271,927 in 2019 to 393,207 in 2020.
+- According to Nilson’s research’s annual report, Global Card frauds might cost approximately $408.50 billion over the next decade.
 
 Credit card fraud transactions is the well-known online theft. Predicting the customers transactions data and finding the fraud transactions patterns will help in bringing awareness to the customers and in preventing the fraud transactions in future.
 
@@ -26,4 +26,4 @@ Credit card fraud transactions is the well-known online theft. Predicting the cu
 #### Machine Learning Models Used
 1. Logistic Regression
 2. Naïve Bayes Classifier
-3. 3. Decision Tree Classifier
+3. Decision Tree Classifier
